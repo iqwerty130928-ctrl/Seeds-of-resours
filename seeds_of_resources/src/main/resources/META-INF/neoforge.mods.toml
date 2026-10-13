@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="seeds_of_resources"
+version="1.0.0"
+displayName="Seeds of Resources"
+description='''
+Grow resources like crops. Craft a seed from wheat seeds and a resource, plant it on farmland and harvest the resource.
+'''
+
+[[dependencies.seeds_of_resources]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.seeds_of_resources]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

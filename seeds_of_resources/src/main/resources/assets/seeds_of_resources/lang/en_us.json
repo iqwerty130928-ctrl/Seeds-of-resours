@@ -1,0 +1,9 @@
+{
+  "itemGroup.seeds_of_resources": "Seeds of Resources",
+  "item.seeds_of_resources.coal_seed": "Coal Seed",
+  "block.seeds_of_resources.coal_crop": "Coal Crop",
+  "item.seeds_of_resources.iron_seed": "Iron Seed",
+  "block.seeds_of_resources.iron_crop": "Iron Crop",
+  "item.seeds_of_resources.diamond_seed": "Diamond Seed",
+  "block.seeds_of_resources.diamond_crop": "Diamond Crop"
+}

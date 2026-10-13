@@ -1,0 +1,9 @@
+{
+  "itemGroup.seeds_of_resources": "Семена ресурсов",
+  "item.seeds_of_resources.coal_seed": "Семя угля",
+  "block.seeds_of_resources.coal_crop": "Растение угля",
+  "item.seeds_of_resources.iron_seed": "Семя железа",
+  "block.seeds_of_resources.iron_crop": "Растение железа",
+  "item.seeds_of_resources.diamond_seed": "Семя алмаза",
+  "block.seeds_of_resources.diamond_crop": "Растение алмаза"
+}
